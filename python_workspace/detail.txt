@@ -1,0 +1,35 @@
+Dinesh Pratap Singh
+Adarsh gupta 
+Chandrakant kumar
+Abhishek rai
+Himanshu Jaiswal
+Anjali Jiski Bahot jali
+
+Phone Numbers: 
+9876543212
+9456871265
+3596521458
+9456896575
+
+Email Address: 
+
+hellobolo@gmail.com
+yoman@hotmail.com
+yeahmain@yahoo.com
+whatthafack@gmail.com
+isthisit@hola.com
+
+Address:
+
+Bagal wali gali ke 2 kunad par 
+Samne wale ghar me 
+Upar ke floor pr
+mujhe nhi pata
+sayad pehle kamre me ho sakti hai
+
+Despriction: 
+
+This is just a random data file that is used to implement some of the basic concepts of python and 
+how to use them in linux as a whole. Starting from regular expression.
+
+
